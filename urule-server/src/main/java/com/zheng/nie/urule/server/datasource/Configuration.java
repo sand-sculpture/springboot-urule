@@ -1,4 +1,4 @@
-package com.zheng.nie.springboot.urule.config.datasource;
+package com.zheng.nie.urule.server.datasource;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;

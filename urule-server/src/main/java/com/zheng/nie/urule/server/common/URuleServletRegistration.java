@@ -1,4 +1,4 @@
-package com.zheng.nie.springboot.urule.common;
+package com.zheng.nie.urule.server.common;
 
 import com.bstek.urule.console.servlet.URuleServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
