@@ -16,7 +16,7 @@ public class Configuration {
 
 
     @Bean
-    public PropertySourcesPlaceholderConfigurer propertySourceLoader() {
+        public PropertySourcesPlaceholderConfigurer propertySourceLoader() {
         PropertySourcesPlaceholderConfigurer configurer = new PropertySourcesPlaceholderConfigurer();
         configurer.setIgnoreUnresolvablePlaceholders(true);
         configurer.setOrder(1);
